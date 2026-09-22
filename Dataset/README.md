@@ -12,8 +12,10 @@ The dataset contains 100,000 sales records and 26 columns covering customer, pro
 - SQL
 - Microsoft Excel
 
-## Related Project
+## Project
+
+This dataset is part of this:
 
 **Indian Superstore Sales Analysis Dashboard**
 
-The dataset is used as the primary source for the SQL analysis and Excel dashboard included in this repository.
+The project uses SQL for data analysis and Excel for dashboard development and visualization.
